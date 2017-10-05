@@ -52,3 +52,13 @@ kbd {
 #radtext {
     margin-top: 10px;
 }
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    height: 75px;
+}
+
+p {
+  color: white;
+}
